@@ -68,4 +68,4 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 9 | 2/28 | RS: Recommendation from Graph Perspective | -------- | ------ | ------ | ------ |
 | Week 9 | 3/2 | TBD | -------- | ------ | ------ | ------ |
 | Week 10 | 3/7 | Project Presentation | -------- | ------ | ------ | ------ |
-| Week 10 | 3/9 | Project Presentation | -------- | ------ | ------ | ------ |
+| Week 10 | 3/9 | Project Presentation | -------- | ------ | ------ | Final Report / Code Due |

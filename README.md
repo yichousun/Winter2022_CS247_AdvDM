@@ -50,22 +50,22 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week | Date | Topic | Further Reading | Discussion Session| Homework| Course Project|
 | ------- | ------ | ------ | -------- | ------ | ------ | ------ |
 | Week 1 | 1/3 | Introduction | <ul><li>[Review of probability from a course by David Blei](http://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf) from Princeton U.</li><li>[Machine Learning Math Essentials](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf) by Jeff Howbert from Washington U.</li><li>[http://cs229.stanford.edu/section/cs229-prob.pdf](http://cs229.stanford.edu/section/cs229-prob.pdf)</li><li>[Optimization](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/optimization.pdf) | ------ | ------ | ------ |
-| Week 1 | 1/5 | ------ | -------- | ------ | ------ | ------ |
-| Week 2 | 1/10 | ------ | -------- | ------ | ------ | ------ |
-| Week 2 | 1/12 | ------ | -------- | ------ | ------ | ------ |
+| Week 1 | 1/5 | Basics: Naive Bayes and Logistic Regression| -------- | ------ | ------ | ------ |
+| Week 2 | 1/10 |Basics: K-Means, Gaussian Mixture Model | -------- | ------ | ------ | ------ |
+| Week 2 | 1/12 |Basics: Neural Networks, Deep Learning | -------- | ------ | ------ | ------ |
 | Week 3 | 1/17 | **Martin Luther King, Jr. holiday (No Class)** | -------- | ------ | ------ | ------ |
-| Week 3 | 1/19 | ------ | -------- | ------ | ------ | ------ |
-| Week 4 | 1/24 | ------ | -------- | ------ | ------ | ------ |
-| Week 4 | 1/26 | ------ | -------- | ------ | ------ | ------ |
-| Week 5 | 1/31 | ------ | -------- | ------ | ------ | ------ |
-| Week 5 | 2/2 | ------ | -------- | ------ | ------ | ------ |
-| Week 6 | 2/7 | ------ | -------- | ------ | ------ | ------ |
-| Week 6 | 2/9 | ------ | -------- | ------ | ------ | ------ |
-| Week 7 | 2/14 | ------ | -------- | ------ | ------ | ------ |
-| Week 7 | 2/16 | ------ | -------- | ------ | ------ | ------ |
-| Week 8 | 2/21 | ------ | -------- | ------ | ------ | ------ |
-| Week 8 | 2/23 | ------ | -------- | ------ | ------ | ------ |
-| Week 9 | 2/28 | ------ | -------- | ------ | ------ | ------ |
-| Week 9 | 3/2 | ------ | -------- | ------ | ------ | ------ |
-| Week 10 | 3/7 | ------ | -------- | ------ | ------ | ------ |
-| Week 10 | 3/9 | ------ | -------- | ------ | ------ | ------ |
+| Week 3 | 1/19 | Text: Topic Model: PLSA | -------- | ------ | ------ | ------ |
+| Week 4 | 1/24 | Text: Topic Model: LDA | -------- | ------ | ------ | ------ |
+| Week 4 | 1/26 | Text: Word Embedding | -------- | ------ | ------ | ------ |
+| Week 5 | 1/31 | Graph: Random Wak| -------- | ------ | ------ | ------ |
+| Week 5 | 2/2 |  Graph: Label Propagation  | -------- | ------ | ------ | ------ |
+| Week 6 | 2/7 | Graph: Spectural Clustering| -------- | ------ | ------ | ------ |
+| Week 6 | 2/9 | Graph/Network Embedding | -------- | ------ | ------ | ------ |
+| Week 7 | 2/14 | Graph: Knowledge Graph Embedding | -------- | ------ | ------ | ------ |
+| Week 7 | 2/16 | RS: Collaborative Filtering and Matrix Factorization | -------- | ------ | ------ | ------ |
+| Week 8 | 2/21 | **Presidents’ Day holiday (No Class)** | -------- | ------ | ------ | ------ |
+| Week 8 | 2/23 | RS: Factorization Machine and Neural Collaborative Filtering | -------- | ------ | ------ | ------ |
+| Week 9 | 2/28 | RS: Recommendation from Graph Perspective | -------- | ------ | ------ | ------ |
+| Week 9 | 3/2 | TBD | -------- | ------ | ------ | ------ |
+| Week 10 | 3/7 | Project Presentation | -------- | ------ | ------ | ------ |
+| Week 10 | 3/9 | Project Presentation | -------- | ------ | ------ | ------ |

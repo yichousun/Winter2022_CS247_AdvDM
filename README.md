@@ -49,3 +49,4 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 ## Tentative Schedule
 | Week | Date | Topic | Further Reading | Discussion Session| Homework| Course Project|
 | ------- | ------ | ------ | -------- | ------ | ------ | ------ |
+| Week 0 | 1/3 | Introduction | <ul><li>[Review of probability from a course by David Blei](http://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf) from Princeton U.</li><li>[Machine Learning Math Essentials](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf) by Jeff Howbert from Washington U.</li><li>[http://cs229.stanford.edu/section/cs229-prob.pdf](http://cs229.stanford.edu/section/cs229-prob.pdf)</li><li>[Optimization](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/optimization.pdf) | ------ | ------ | ------ |

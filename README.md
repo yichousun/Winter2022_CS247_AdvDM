@@ -6,6 +6,8 @@
 
 ### TA:
 - Zongyue Qin (qinzongyue at cs.ucla.edu), office hours: Tuesday 12:00-13:00 Thursday 11:00-12:00 (Tentative), Zoom (Zoom link is posted on canvas/bruinlearn)
+- Discussion Time: Friday 2-3:50pm
+- Classroom: Kinsey Science Teaching Pavilion 1220B
 
 ## Course Description
 This course introduces concepts, algorithms, and techniques of data mining on different types of datasets, which covers basic data mining algorithms, as well as advanced topics on text mining, graph/network mining, and recommender systems. A team-based course project involving hands-on practice of mining useful knowledge from large data sets is required, in addition to regular assignments. The course is a graduate-level computer science course, which is also a good option for senior undergraduate students who are interested in the field as well as students from other disciplines who need to understand, develop, and use data mining systems to analyze large amounts of data.

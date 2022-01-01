@@ -62,7 +62,7 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 6 | 2/7 | Graph: Spectural Clustering| -------- | ------ | ------ | ------ |
 | Week 6 | 2/9 | Graph/Network Embedding | -------- | ------ | ------ | ------ |
 | Week 7 | 2/14 | Graph: Knowledge Graph Embedding | -------- | ------ | ------ | ------ |
-| Week 7 | 2/16 | RS: Collaborative Filtering and Matrix Factorization | -------- | ------ | ------ | ------ |
+| Week 7 | 2/16 | RS: Collaborative Filtering, Matrix Factorization, and BPR | <ul><li>[Rendle et al., BPR: Bayesian Personalized Ranking from Implicit Feedback, UAI 2009](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)</li></ul> | ------ | ------ | ------ |
 | Week 8 | 2/21 | **Presidents’ Day holiday (No Class)** | -------- | ------ | ------ | ------ |
 | Week 8 | 2/23 | RS: Factorization Machine and Neural Collaborative Filtering | -------- | ------ | ------ | ------ |
 | Week 9 | 2/28 | RS: Recommendation from Graph Perspective | -------- | ------ | ------ | ------ |

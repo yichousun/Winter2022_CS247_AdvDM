@@ -1,7 +1,7 @@
 # CS 247: Advanced Data Mining
 ### Instructor: Yizhou Sun
-- Lecture Time: Monday/Wednesday 2-3:50pm
-- Classroom: 
+- Lecture Time: Monday/Wednesday 2-3:50pm 
+- Classroom: https://ucla.zoom.us/j/94865976682?pwd=MTZqM054aG1NeXVhVlFmbnV1WExNQT09 for the first two weeks
 - Office hours: TBD
 
 ### TA:

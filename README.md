@@ -2,7 +2,7 @@
 ### Instructor: Yizhou Sun
 - Lecture Time: Monday/Wednesday 2-3:50pm 
 - Classroom: https://ucla.zoom.us/j/94865976682?pwd=MTZqM054aG1NeXVhVlFmbnV1WExNQT09 for the first two weeks
-- Office hours: Monday/
+- Office hours: Monday/Tuesday 4-5pm @ zoom above
 
 ### TA:
 - Zongyue Qin (qinzongyue at cs.ucla.edu), office hours: Tuesday 12:00-13:00 Thursday 11:00-12:00 (Tentative), Zoom (Zoom link is posted on canvas/bruinlearn)

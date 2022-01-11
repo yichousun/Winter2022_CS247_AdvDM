@@ -59,7 +59,7 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 3 | 1/19 | Text: Topic Model: PLSA | -------- | ------ | ------ | ------ |
 | Week 4 | 1/24 | Text: Topic Model: LDA | -------- | ------ | ------ | ------ |
 | Week 4 | 1/26 | Text: Word Embedding | -------- | ------ | ------ | ------ |
-| Week 5 | 1/31 | Graph: Random Wak| -------- | ------ | ------ | ------ |
+| Week 5 | 1/31 | Graph: Random Walk| -------- | ------ | ------ | ------ |
 | Week 5 | 2/2 |  Graph: Label Propagation  | -------- | ------ | ------ | ------ |
 | Week 6 | 2/7 | Graph: Spectural Clustering| -------- | ------ | ------ | ------ |
 | Week 6 | 2/9 | Graph/Network Embedding | -------- | ------ | ------ | ------ |

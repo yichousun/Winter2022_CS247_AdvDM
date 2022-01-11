@@ -53,8 +53,8 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | ------- | ------ | ------ | -------- | ------ | ------ | ------ |
 | Week 1 | 1/3 | Introduction [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/01Intro.pdf) | <ul><li>[Review of probability from a course by David Blei](http://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf) from Princeton U.</li><li>[Machine Learning Math Essentials](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf) by Jeff Howbert from Washington U.</li><li>[http://cs229.stanford.edu/section/cs229-prob.pdf](http://cs229.stanford.edu/section/cs229-prob.pdf)</li><li>[Optimization](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/optimization.pdf) | ------ | ------ | ------ |
 | Week 1 | 1/5 | Basics: Logistic Regression and Naive Bayes [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/02NaiveBayes_LR.pdf)| <ul><li>Naive Bayes: http://pages.cs.wisc.edu/~jerryzhu/cs769/nb.pdf </li><li>Newton Raphson Algorithm: https://www.stat.washington.edu/adobra/classes/536/Files/week1/newtonfull.pdf</li><li>Discriminative vs. generative: https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf</li></ul>| ------ | ------ | ------ |
-| Week 2 | 1/10 |Basics: K-Means, Gaussian Mixture Model | -------- | ------ | ------ | ------ |
-| Week 2 | 1/12 |Basics: Neural Networks, Deep Learning | -------- | ------ | ------ | ------ |
+| Week 2 | 1/10 |Basics: K-Means, Gaussian Mixture Model [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/03kmeans_GMM.pdf)| -------- | ------ | ------ | ------ |
+| Week 2 | 1/12 |Basics: Neural Networks, Deep Learning [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/04NN_Deeplearning.pdf) | -------- | ------ | ------ | ------ |
 | Week 3 | 1/17 | **Martin Luther King, Jr. holiday (No Class)** | -------- | ------ | ------ | ------ |
 | Week 3 | 1/19 | Text: Topic Model: PLSA | -------- | ------ | ------ | ------ |
 | Week 4 | 1/24 | Text: Topic Model: LDA | -------- | ------ | ------ | ------ |

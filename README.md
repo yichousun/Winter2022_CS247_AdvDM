@@ -61,7 +61,7 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 4 | 1/26 | Text: Word Embedding | -------- | ------ | ------ | ------ |
 | Week 5 | 1/31 | Graph: Random Walk| -------- | ------ | ------ | ------ |
 | Week 5 | 2/2 |  Graph: Label Propagation  | -------- | ------ | ------ | ------ |
-| Week 6 | 2/7 | Graph: Spectural Clustering| -------- | ------ | ------ | ------ |
+| Week 6 | 2/7 | Graph: Spectral Clustering| -------- | ------ | ------ | ------ |
 | Week 6 | 2/9 | Graph/Network Embedding | -------- | ------ | ------ | ------ |
 | Week 7 | 2/14 | Graph: Knowledge Graph Embedding | -------- | ------ | ------ | ------ |
 | Week 7 | 2/16 | RS: Collaborative Filtering, Matrix Factorization, and BPR | <ul><li>[Rendle et al., BPR: Bayesian Personalized Ranking from Implicit Feedback, UAI 2009](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)</li></ul> | ------ | ------ | ------ |

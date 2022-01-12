@@ -5,7 +5,7 @@
 - Office hours: Monday/Tuesday 4-5pm @ zoom above
 
 ### TA:
-- Zongyue Qin (qinzongyue at cs.ucla.edu), office hours: Tuesday 12:00-13:00 Thursday 11:00-12:00 (Tentative), Zoom (Zoom link is posted on canvas/bruinlearn)
+- Zongyue Qin (qinzongyue at cs.ucla.edu), office hours: Tuesday 12:00-13:00 Thursday 18:00-19:00 (Tentative), Zoom (Zoom link is posted on canvas/bruinlearn)
 - Discussion Time: Friday 2-3:50pm
 - Classroom: Kinsey Science Teaching Pavilion 1220B
 

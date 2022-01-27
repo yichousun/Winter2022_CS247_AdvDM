@@ -57,7 +57,7 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 2 | 1/12 |Basics: Neural Networks, Deep Learning [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/04NN_DeepLearning.pdf) | -------- | ------ | ------ | ------ |
 | Week 3 | 1/17 | **Martin Luther King, Jr. holiday (No Class)** | -------- | ------ | ------ | ------ |
 | Week 3 | 1/19 | Text: Topic Model: PLSA | -------- | ------ | ------ | ------ |
-| Week 4 | 1/24 | Text: Topic Model: LDA | -------- | ------ | ------ | ------ |
+| Week 4 | 1/24 | Text: Topic Model: LDA [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/05TopicModels.pdf)| -------- | ------ | ------ | ------ |
 | Week 4 | 1/26 | Text: Word Embedding | -------- | ------ | ------ | ------ |
 | Week 5 | 1/31 | Graph: Random Walk| -------- | ------ | ------ | ------ |
 | Week 5 | 2/2 |  Graph: Label Propagation  | -------- | ------ | ------ | ------ |

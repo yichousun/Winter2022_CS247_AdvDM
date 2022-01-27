@@ -56,8 +56,8 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 2 | 1/10 |Basics: K-Means, Gaussian Mixture Model [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/03kmeans_GMM.pdf)| <ul>Notes on mixture models and EM algorithm: <li>http://www.stat.cmu.edu/~cshalizi/350/lectures/29/lecture-29.pdf</li> <li>http://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall06/reading/mixtureModels.pdf</li> </ul> | ------ | ------ | ------ |
 | Week 2 | 1/12 |Basics: Neural Networks, Deep Learning [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/04NN_DeepLearning.pdf) | -------- | ------ | ------ | ------ |
 | Week 3 | 1/17 | **Martin Luther King, Jr. holiday (No Class)** | -------- | ------ | ------ | ------ |
-| Week 3 | 1/19 | Text: Topic Model: PLSA | -------- | ------ | ------ | ------ |
-| Week 4 | 1/24 | Text: Topic Model: LDA [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/05TopicModels.pdf)| -------- | ------ | ------ | ------ |
+| Week 3 | 1/19 | Text: Topic Model: PLSA and LDA | -------- | ------ | ------ | ------ |
+| Week 4 | 1/24 | Text: Topic Model: PLSA and LDA [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/05TopicModels.pdf)| <ul><li>3Blue1Brown NN series: https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi</li> <li> Deep Learning: http://neuralnetworksanddeeplearning.com/ http://www.deeplearningbook.org/ http://www.charuaggarwal.net/neural.htm http://d2l.ai/index.html </li></ul> | ------ | ------ | ------ |
 | Week 4 | 1/26 | Text: Word Embedding | -------- | ------ | ------ | ------ |
 | Week 5 | 1/31 | Graph: Random Walk| -------- | ------ | ------ | ------ |
 | Week 5 | 2/2 |  Graph: Label Propagation  | -------- | ------ | ------ | ------ |

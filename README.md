@@ -58,7 +58,7 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 3 | 1/17 | **Martin Luther King, Jr. holiday (No Class)** | -------- | ------ | ------ | ------ |
 | Week 3 | 1/19 | Text: Topic Model: PLSA and LDA | <ul><li>T. Hofmann. Probabilistic latent semantic indexing. Proceedings of the Twenty-Second Annual International SIGIR Conference, 1999.</li><li>David Blei, Andrew Ng, Michael Jordan, “Latent Dirichlet Allocation”, JMLR, 2003. http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf</li></ul> | ------ | ------ | ------ |
 | Week 4 | 1/24 | Text: Topic Model: PLSA and LDA [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/05TopicModels.pdf)| <ul><li>David Blei, lecture notes on variational inference: https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf</li><li>David Blei, Andrew Ng, Michael Jordan, “Latent Dirichlet Allocation”, JMLR, 2003. http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf</li><li>Thomas L. Griffiths and Mark Steyvers, “Finding Scientific Topics”, PNAS, 2004. https://www.pnas.org/content/101/suppl_1/5228</li></ul> | ------ | ------ | ------ |
-| Week 4 | 1/26 | Text: Word Embedding | -------- | ------ | ------ | ------ |
+| Week 4 | 1/26 | Text: Word Embedding [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/06WordEmbedding.pdf)| -------- | ------ | ------ | ------ |
 | Week 5 | 1/31 | Graph: Random Walk| -------- | ------ | ------ | ------ |
 | Week 5 | 2/2 |  Graph: Label Propagation  | -------- | ------ | ------ | ------ |
 | Week 6 | 2/7 | Graph: Spectral Clustering| -------- | ------ | ------ | ------ |

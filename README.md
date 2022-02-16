@@ -59,15 +59,15 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 3 | 1/19 | Text: Topic Model: PLSA and LDA | <ul><li>T. Hofmann. Probabilistic latent semantic indexing. Proceedings of the Twenty-Second Annual International SIGIR Conference, 1999.</li><li>David Blei, Andrew Ng, Michael Jordan, “Latent Dirichlet Allocation”, JMLR, 2003. http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf</li></ul> | ------ | ------ | ------ |
 | Week 4 | 1/24 | Text: Topic Model: PLSA and LDA [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/05TopicModels.pdf)| <ul><li>David Blei, lecture notes on variational inference: https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf</li><li>David Blei, Andrew Ng, Michael Jordan, “Latent Dirichlet Allocation”, JMLR, 2003. http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf</li><li>Thomas L. Griffiths and Mark Steyvers, “Finding Scientific Topics”, PNAS, 2004. https://www.pnas.org/content/101/suppl_1/5228</li></ul> | ------ | ------ | ------ |
 | Week 4 | 1/26 | Text: Word Embedding [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/06WordEmbedding.pdf)| -------- | ------ | ------ | ------ |
-| Week 5 | 1/31 | Graph: Random Walk| -------- | ------ | ------ | ------ |
-| Week 5 | 2/2 |  Graph: Label Propagation  | -------- | ------ | ------ | ------ |
-| Week 6 | 2/7 | Graph: Spectral Clustering| -------- | ------ | ------ | ------ |
-| Week 6 | 2/9 | Graph/Network Embedding | -------- | ------ | ------ | ------ |
-| Week 7 | 2/14 | Graph: Knowledge Graph Embedding | -------- | ------ | ------ | ------ |
-| Week 7 | 2/16 | RS: Collaborative Filtering, Matrix Factorization, and BPR | <ul><li>[Rendle et al., BPR: Bayesian Personalized Ranking from Implicit Feedback, UAI 2009](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)</li></ul> | ------ | ------ | ------ |
+| Week 5 | 1/31 | Graph: Random Walk [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/07Graph_RW.pdf)| -------- | ------ | ------ | ------ |
+| Week 5 | 2/2 |  Graph: Spectral Clustering [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/08Graph_spectral.pdf) | -------- | ------ | ------ | ------ |
+| Week 6 | 2/7 | Graph: Label Propagation (slides as above)| -------- | ------ | ------ | ------ |
+| Week 6 | 2/9 | Graph/Network Embedding [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/09Graph_embedding.pdf) | -------- | ------ | ------ | ------ |
+| Week 7 | 2/14 | Graph: Knowledge Graph Embedding (slides as above)| -------- | ------ | ------ | ------ |
+| Week 7 | 2/16 | Graph: Graph Neural Networks (slides as above)| | ------ | ------ | ------ |
 | Week 8 | 2/21 | **Presidents’ Day holiday (No Class)** | -------- | ------ | ------ | ------ |
-| Week 8 | 2/23 | RS: Factorization Machine and Neural Collaborative Filtering | -------- | ------ | ------ | ------ |
-| Week 9 | 2/28 | RS: Recommendation from Graph Perspective | -------- | ------ | ------ | ------ |
-| Week 9 | 3/2 | TBD | -------- | ------ | ------ | ------ |
+| Week 8 | 2/23 | RS: Collaborative Filtering, Matrix Factorization, and BPR | <ul><li>[Rendle et al., BPR: Bayesian Personalized Ranking from Implicit Feedback, UAI 2009](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)</li></ul>  | ------ | ------ | ------ |
+| Week 9 | 2/28 | RS: Factorization Machine and Neural Collaborative Filtering | -------- | ------ | ------ | ------ |
+| Week 9 | 3/2 | RS: Recommendation from Graph Perspective | -------- | ------ | ------ | ------ |
 | Week 10 | 3/7 | Project Presentation | -------- | ------ | ------ | ------ |
 | Week 10 | 3/9 | Project Presentation | -------- | ------ | ------ | Final Report / Code Due |

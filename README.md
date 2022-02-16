@@ -63,7 +63,9 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 5 | 2/2 |  Graph: Spectral Clustering [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/08Graph_spectral.pdf) | <ul><li> A Tutorial on Spectral Clustering by U. Luxburg. https://arxiv.org/abs/0711.0189 </li></ul> | ------ | ------ | ------ |
 | Week 6 | 2/7 | Graph: Label Propagation (slides as above)| <ul><li>Learning from Labeled and Unlabeled Data with Label Propagation,  by Xiaojin Zhu and Zoubin Ghahramani http://www.cs.cmu.edu/~zhuxj/pub/CMU-CALD-02-107.pdf</li><li>Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions,  by Xiaojin Zhu et al., ICML’03 https://www.aaai.org/Papers/ICML/2003/ICML03-118.pdf</li><li>Learning with Local and Global Consistency,  by Denny Zhou et al., NIPS’03 http://papers.nips.cc/paper/2506-learning-with-local-and-global-consistency.pdf</li></ul> | ------ | ------ | ------ |
 | Week 6 | 2/9 | Graph/Network Embedding [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/09Graph_embedding.pdf) | -------- | ------ | ------ | ------ |
-| Week 7 | 2/14 | Graph: Knowledge Graph Embedding (slides as above)| -------- | ------ | ------ | ------ |
+| Week 7 | 2/14 | Graph: Knowledge Graph Embedding (slides as above)| <ul><li>Bryan Perozzi, Rami Al-Rfou, Steven Skiena, DeepWalk: Online Learning of Social Representations, KDD’14</li><li>Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Mei, LINE: Large-scale Information Network Embedding, WWW’15</li><li>
+Aditya Grover, Jure Leskovec, node2vec: Scalable Feature Learning for Networks, KDD’16</li>)
+</ul> | ------ | ------ | ------ |
 | Week 7 | 2/16 | Graph: Graph Neural Networks (slides as above)| | ------ | ------ | ------ |
 | Week 8 | 2/21 | **Presidents’ Day holiday (No Class)** | -------- | ------ | ------ | ------ |
 | Week 8 | 2/23 | RS: Collaborative Filtering, Matrix Factorization, and BPR | <ul><li>[Rendle et al., BPR: Bayesian Personalized Ranking from Implicit Feedback, UAI 2009](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)</li></ul>  | ------ | ------ | ------ |
